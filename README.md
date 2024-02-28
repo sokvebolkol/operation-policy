@@ -1,4 +1,4 @@
-![logo](https://github.com/sokvebolkol/operation-policy/assets/44717892/8a5e4d21-66af-4e51-b267-547ab21d2675)
+<img src="https://github.com/sokvebolkol/operation-policy/assets/44717892/8a5e4d21-66af-4e51-b267-547ab21d2675" width="100" height="100">
 
 # Chokchey Operation App policy
 
